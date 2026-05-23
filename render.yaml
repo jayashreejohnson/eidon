@@ -1,0 +1,19 @@
+services:
+  - type: web
+    name: eidon-api-001
+    runtime: python
+    plan: free
+    branch: feature/render-01
+    buildCommand: pip install --upgrade pip && pip install --retries 5 --timeout 300 -r backend/requirements.txt
+    startCommand: uvicorn backend.api.main:app --host 0.0.0.0 --port $PORT
+    healthCheckPath: /health
+
+  - type: web
+    name: eidon-web-001
+    runtime: static
+    branch: feature/render-01
+    staticPublishPath: web_app
+    headers:
+      - path: /*
+        name: Cache-Control
+        value: public, max-age=3600
