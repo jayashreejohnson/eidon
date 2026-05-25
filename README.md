@@ -27,6 +27,28 @@ Instead of only searching papers, the system places a research idea into the lar
 
 ---
 
+## Preview
+
+### Main Interface
+<img src="demo-main.png" width="700"/>
+
+### Results & Predictions
+<img src="demo-results.png" width="700"/>
+
+### Trends / Analysis
+<img src="demo-trends.png" width="700"/>
+
+### Dashboard
+<img src="demo-dashboard.png" width="700"/>
+
+### Insights View
+<img src="demo-insights.png" width="700"/>
+
+### Similar Papers / Insights
+<img src="demo-similarity.png" width="700"/>
+
+---
+
 ## Core Capabilities
 
 - Research trend detection using arXiv publication data
