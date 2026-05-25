@@ -226,6 +226,12 @@ Future directions include:
 
 ---
 
+## Want full details and project flow?
+
+Use README_FULL_FLOW.md for full implementation and updated pipeline steps.
+
+
+
 ## License
 
 MIT License
