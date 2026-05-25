@@ -229,5 +229,3 @@ Future directions include:
 ## License
 
 MIT License
-
-MIT License [LICENSE](LICENSE).
