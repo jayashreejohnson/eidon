@@ -99,10 +99,9 @@ curl -X POST "http://0.0.0.0:60000/api/v1/advisor/advise" \
 
 ## Collaborators
 
-1. **Jay Sri (Jayashree Johnson)** - [github.com/jayashreejohnson](https://github.com/jayashreejohnson)
-2. **Kamal** - [github.com/kamaldomandula](https://github.com/kamaldomandula)
-3. **Kethan Dosapati** - [github.com/dkethan](https://github.com/dkethan)
-
+1. **Jayashree Johnson** 
+2. **Kethan Dosapati**
+3. **Kamal Domandula** 
 ## Readme index
 
 - `README.md` - simple overview
