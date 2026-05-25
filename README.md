@@ -6,6 +6,12 @@ Built on ~36K arXiv research papers across AI, ML, NLP, systems, and interdiscip
 
 ---
 
+![Python](https://img.shields.io/badge/Python-3.10-blue)
+![FastAPI](https://img.shields.io/badge/FastAPI-Backend-green)
+![Scikit-Learn](https://img.shields.io/badge/ML-ScikitLearn-orange)
+![Render](https://img.shields.io/badge/Deployment-Render-purple)
+![License](https://img.shields.io/badge/License-MIT-yellow)
+
 ## Platforms
 
 - 🌐 Web App — interactive interface for idea analysis  
