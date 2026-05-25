@@ -200,7 +200,7 @@ Analysis included:
 
 ---
 
-## My Contribution
+## Contributions & Responsibilities
 
 - Designed and developed components of the research pipeline and trend analysis workflows
 - Built backend integrations and FastAPI-based prediction-serving functionality
