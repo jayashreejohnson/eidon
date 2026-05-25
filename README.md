@@ -13,6 +13,13 @@ Built on ~36K arXiv research papers across AI, ML, NLP, systems, and interdiscip
 Research discovery is increasingly fragmented across rapidly evolving domains. Eidon AI explores how machine learning and research intelligence workflows can help researchers understand emerging areas, interdisciplinary overlap, and idea positioning earlier in the research lifecycle.
 
 ---
+## Deployment
+
+### Live Platforms
+
+🌐 Web App: https://eidon-web-001.onrender.com
+⚡ API: https://eidon-api-001.onrender.com
+📊 API Docs: https://eidon-api-001.onrender.com/docs
 
 ## Platforms
 
@@ -124,16 +131,6 @@ The platform follows a modular multi-layer architecture separating research inge
 - Flutter
 - REST APIs
 - Render Deployment
-
----
-
-## Deployment
-
-### Live Platforms
-
-- Web App: https://eidon-web-001.onrender.com
-- API: https://eidon-api-001.onrender.com
-- API Docs: https://eidon-api-001.onrender.com/docs
 
 ---
 
