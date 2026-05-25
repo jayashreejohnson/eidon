@@ -1,16 +1,20 @@
 # Eidon AI
 
+![Python](https://img.shields.io/badge/Python-3.10-blue)
+![FastAPI](https://img.shields.io/badge/FastAPI-Backend-green)
+![Scikit-Learn](https://img.shields.io/badge/ML-ScikitLearn-orange)
+![Render](https://img.shields.io/badge/Deployment-Render-purple)
+![License](https://img.shields.io/badge/License-MIT-yellow)
+
 AI-powered research intelligence platform for analyzing arXiv trends, mapping idea-to-domain alignment, and positioning research ideas within evolving scientific landscapes.
 
 Built on ~36K arXiv research papers across AI, ML, NLP, systems, and interdisciplinary computer science domains.
 
 ---
 
-![Python](https://img.shields.io/badge/Python-3.10-blue)
-![FastAPI](https://img.shields.io/badge/FastAPI-Backend-green)
-![Scikit-Learn](https://img.shields.io/badge/ML-ScikitLearn-orange)
-![Render](https://img.shields.io/badge/Deployment-Render-purple)
-![License](https://img.shields.io/badge/License-MIT-yellow)
+# Research discovery is increasingly fragmented across rapidly evolving domains. Eidon AI explores how machine learning and research intelligence workflows can help researchers understand emerging areas, interdisciplinary overlap, and idea positioning earlier in the research lifecycle.
+
+---
 
 ## Platforms
 
