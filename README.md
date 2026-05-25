@@ -17,9 +17,10 @@ Research discovery is increasingly fragmented across rapidly evolving domains. E
 
 ### Live Platforms
 
-🌐 Web App: https://eidon-web-001.onrender.com
-⚡ API: https://eidon-api-001.onrender.com
-📊 API Docs: https://eidon-api-001.onrender.com/docs
+🌐 Web App: https://eidon-web-001.onrender.com  
+⚡ API: https://eidon-api-001.onrender.com  
+📊 API Docs: https://eidon-api-001.onrender.com/docs  
+
 
 ## Platforms
 
