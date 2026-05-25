@@ -2,8 +2,6 @@
 
 AI-powered advisor and trend analytics for arXiv computer science papers.
 
-> Game on, guys. Watch the game now.
-
 ## Wanna implement this?
 
 This is the **main implementation guide** for the project.
