@@ -12,7 +12,7 @@ Built on ~36K arXiv research papers across AI, ML, NLP, systems, and interdiscip
 
 ---
 
-## Research discovery is increasingly fragmented across rapidly evolving domains. Eidon AI explores how machine learning and research intelligence workflows can help researchers understand emerging areas, interdisciplinary overlap, and idea positioning earlier in the research lifecycle.
+Research discovery is increasingly fragmented across rapidly evolving domains. Eidon AI explores how machine learning and research intelligence workflows can help researchers understand emerging areas, interdisciplinary overlap, and idea positioning earlier in the research lifecycle.
 
 ---
 
