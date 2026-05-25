@@ -6,6 +6,20 @@ Built on ~36K arXiv research papers across AI, ML, NLP, systems, and interdiscip
 
 ---
 
+## Demo
+
+🌐 Web App: https://eidon-web-001.onrender.com  
+⚡ API: https://eidon-api-001.onrender.com  
+📊 API Docs: https://eidon-api-001.onrender.com/docs  
+
+---
+
+## Platforms
+
+- 🌐 Web App — interactive interface for idea analysis  
+- 📱 Mobile App — on-the-go research insights  
+- ⚡ API — FastAPI backend serving predictions  
+
 ## What Eidon Does
 
 Eidon takes a raw research idea (title + abstract input) and:
